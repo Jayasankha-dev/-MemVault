@@ -11,7 +11,7 @@ git commit -m "Initial commit: MemVault - High-Performance Memory Token Hunter"
 git branch -M main
 
 # 5. Add your remote repository
-git remote add origin https://github.com/yourusername/memvault.git
+git remote add origin https://github.com/Jayasankha-dev/-MemVault.git
 
 # 6. Push to GitHub
 git push -u origin main
