@@ -1,0 +1,8 @@
+memvault/
+├── Cargo.toml
+└── src/
+    ├── main.rs          (CLI Entry Point)
+    ├── scanner.rs       (Parallel Memory Scanner)
+    ├── entropy.rs       (Entropy Calculation)
+    ├── dumper.rs        (Cross-Platform Memory Dump)
+    └── api.rs           (Optional HTTP API Server)
